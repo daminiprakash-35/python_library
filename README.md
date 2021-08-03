@@ -7,7 +7,7 @@ This library will help to calculate numbers quickly.
 pip install quickcal
 '''
 
-# initializing package
+# Initializing package
 '''
 from quickcal import QuickCal
 
@@ -17,22 +17,22 @@ num_2 = 8
 cal = QuickCal(num_1, num_2)
 '''
 
-# for addition
+# For Addition
 '''
 cal.addition()
 '''
 
-# for substraction
+# For Substraction
 '''
 cal.substraction()
 '''
 
-# for multiplication
+# For Multiplication
 '''
 cal.multiplication()
 '''
 
-# for division
+# For Division
 '''
 cal.division()
 '''
